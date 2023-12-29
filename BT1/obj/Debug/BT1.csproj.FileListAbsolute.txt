@@ -1,0 +1,6 @@
+D:\GIT\BTVN\BT1\bin\Debug\BT1.exe.config
+D:\GIT\BTVN\BT1\bin\Debug\BT1.exe
+D:\GIT\BTVN\BT1\bin\Debug\BT1.pdb
+D:\GIT\BTVN\BT1\obj\Debug\BT1.csproj.CoreCompileInputs.cache
+D:\GIT\BTVN\BT1\obj\Debug\BT1.exe
+D:\GIT\BTVN\BT1\obj\Debug\BT1.pdb

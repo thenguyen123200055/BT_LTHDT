@@ -1,0 +1,7 @@
+D:\GIT\BTVN\BT2\bin\Debug\BT2.exe.config
+D:\GIT\BTVN\BT2\bin\Debug\BT2.exe
+D:\GIT\BTVN\BT2\bin\Debug\BT2.pdb
+D:\GIT\BTVN\BT2\obj\Debug\BT2.csproj.AssemblyReference.cache
+D:\GIT\BTVN\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+D:\GIT\BTVN\BT2\obj\Debug\BT2.exe
+D:\GIT\BTVN\BT2\obj\Debug\BT2.pdb
